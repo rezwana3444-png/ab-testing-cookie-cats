@@ -27,4 +27,4 @@ offset it.
 Python (pandas, scipy, seaborn, matplotlib) — Chi-Square hypothesis testing
 
 ## Files
-- `ab_test_cookie_cats.ipynb` — full analysis notebook with narrative, tests, and visualizations
+- `AB_Testing_Cookie_Cats.ipynb` — full analysis notebook with narrative, tests, and visualizations
